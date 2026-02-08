@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: RPI Wiki
+baseURL: "https://rpiwiki.org/"
 
 # import hextra as module
 module:
