@@ -1,0 +1,20 @@
+
+
+:root {
+  --hextra-max-page-width: 100%; 
+  font-size: 0.8rem; 
+  --hextra-nav-width: 100% !important;
+
+}
+
+
+/* Increase sidebar width (default is w-64 which is 16rem) */
+@media (min-width: 768px) {
+  .hextra-sidebar-container {
+    width: 20rem !important;
+  }
+}
+
+.content, .content p, .content li {
+    line-height: 1.5 !important; /* using 1.5 as 0.5 is unreadable, but you can change it */
+}

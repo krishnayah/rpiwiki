@@ -1,0 +1,21 @@
+{
+  "name": "hextra-starter-template",
+  "version": "1.0.0",
+  "description": "Hugo Hextra theme starter template with Outline wiki sync",
+  "scripts": {
+    "sync": "node scripts/sync-outline.js",
+    "sync:rpi-wiki": "node scripts/sync-outline.js --collection=rpi-wiki --clean --verbose",
+    "sync:verbose": "node scripts/sync-outline.js --verbose",
+    "sync:dry-run": "node scripts/sync-outline.js --dry-run --verbose",
+    "sync:clean": "node scripts/sync-outline.js --clean --verbose"
+  },
+  "keywords": [
+    "hugo",
+    "hextra",
+    "outline",
+    "wiki",
+    "documentation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
