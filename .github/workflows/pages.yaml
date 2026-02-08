@@ -9,6 +9,12 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Run after Outline sync completes
+  workflow_run:
+    workflows: ["Sync Outline Content"]
+    types:
+      - completed
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
@@ -29,6 +35,8 @@ defaults:
 jobs:
   # Build job
   build:
+    # Only run if manual/push OR if triggered by workflow_run and the sync was successful
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.147.9
