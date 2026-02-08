@@ -1,4 +1,4 @@
-name: Sync Outline Content
+name: Sync Outline Content (and redeploy hugo afterwards)
 
 on:
   schedule:
