@@ -1,13 +1,14 @@
 {
-  "lastSync": "2026-02-16T18:50:02.185Z",
+  "lastSync": "2026-02-17T02:27:29.967Z",
   "collections": [
-    "webtech-internal",
+    "web-technologies-internal",
     "rpi-wiki"
   ],
   "outlineUrl": "https://rpi.wiki",
   "documentMappings": {
-    "376d428b-7297-420e-a02d-9121dbea9abe": "/docs/webtech-internal/petitions/",
-    "826d19b4-2da2-4ac8-9360-b0ca7612e512": "/docs/webtech-internal/outline/",
+    "4608b389-d45e-4d31-8d23-370a18cad7a0": "/docs/web-technologies-internal/student-government-website/",
+    "376d428b-7297-420e-a02d-9121dbea9abe": "/docs/web-technologies-internal/petitions/",
+    "826d19b4-2da2-4ac8-9360-b0ca7612e512": "/docs/web-technologies-internal/outline/",
     "4fd53994-96c0-4153-b8bc-c6ee78c720e6": "/docs/rpi-wiki/the-transit/",
     "b07916d6-ef93-4945-b973-c39a42916d70": "/docs/rpi-wiki/guides/",
     "e477a124-7048-43d4-81ae-aca656a32680": "/docs/rpi-wiki/guides/dealing-with-student-government/",
