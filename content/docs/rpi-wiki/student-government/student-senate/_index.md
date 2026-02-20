@@ -1,7 +1,7 @@
 ---
 title: Student Senate
 type: docs
-weight: 1
+weight: 2
 sidebar:
   open: false
 date: "2026-01-31T04:04:45.369Z"

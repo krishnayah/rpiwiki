@@ -1,7 +1,7 @@
 ---
 title: Executive Board
 type: docs
-weight: 0
+weight: 1
 date: "2026-02-04T00:39:32.495Z"
 lastmod: "2026-02-05T17:59:07.213Z"
 _outline:

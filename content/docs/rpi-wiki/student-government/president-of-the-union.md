@@ -1,7 +1,7 @@
 ---
 title: President of the Union
 type: docs
-weight: 3
+weight: 4
 date: "2026-02-01T21:22:18.732Z"
 lastmod: "2026-02-05T15:36:20.793Z"
 _outline:
