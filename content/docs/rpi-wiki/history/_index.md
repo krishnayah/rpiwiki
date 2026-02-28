@@ -1,7 +1,7 @@
 ---
 title: History
 type: docs
-weight: 12
+weight: 11
 sidebar:
   open: false
 date: "2026-02-01T00:21:39.764Z"

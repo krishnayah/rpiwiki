@@ -1,7 +1,7 @@
 ---
 title: Dining
 type: docs
-weight: 8
+weight: 7
 sidebar:
   open: false
 date: "2026-02-03T01:51:28.435Z"

@@ -1,7 +1,7 @@
 ---
 title: Leadership
 type: docs
-weight: 13
+weight: 12
 sidebar:
   open: false
 date: "2026-02-01T00:19:10.964Z"

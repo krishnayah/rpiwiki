@@ -1,7 +1,7 @@
 ---
 title: Student Government
 type: docs
-weight: 11
+weight: 10
 sidebar:
   open: false
 date: "2026-02-01T19:14:23.317Z"

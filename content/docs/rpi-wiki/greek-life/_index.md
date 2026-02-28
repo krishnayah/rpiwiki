@@ -1,7 +1,7 @@
 ---
 title: Greek Life
 type: docs
-weight: 9
+weight: 8
 sidebar:
   open: false
 date: "2026-02-01T21:17:44.472Z"

@@ -1,7 +1,7 @@
 ---
 title: Rensselaer Union
 type: docs
-weight: 10
+weight: 9
 sidebar:
   open: false
 date: "2026-02-04T00:39:25.948Z"

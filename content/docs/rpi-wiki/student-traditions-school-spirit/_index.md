@@ -1,7 +1,7 @@
 ---
 title: Student Traditions & School Spirit
 type: docs
-weight: 14
+weight: 13
 sidebar:
   open: false
 date: "2026-02-04T00:39:56.747Z"

@@ -1,7 +1,7 @@
 ---
 title: Buildings & Facilities
 type: docs
-weight: 7
+weight: 6
 sidebar:
   open: false
 date: "2026-02-01T20:33:26.344Z"

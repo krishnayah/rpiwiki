@@ -1,7 +1,7 @@
 ---
 title: Guides
 type: docs
-weight: 1
+weight: 0
 sidebar:
   open: false
 date: "2026-02-01T20:11:45.184Z"

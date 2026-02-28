@@ -1,7 +1,7 @@
 ---
 title: Policies & Legislation
 type: docs
-weight: 3
+weight: 2
 sidebar:
   open: false
 date: "2026-01-31T04:05:13.388Z"

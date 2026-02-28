@@ -1,7 +1,7 @@
 ---
 title: Clubs
 type: docs
-weight: 2
+weight: 1
 date: "2026-02-01T21:18:26.638Z"
 lastmod: "2026-02-01T21:19:32.066Z"
 _outline:

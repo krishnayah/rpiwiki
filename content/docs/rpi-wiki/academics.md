@@ -1,7 +1,7 @@
 ---
 title: Academics
 type: docs
-weight: 6
+weight: 5
 date: "2026-02-01T21:21:10.448Z"
 lastmod: "2026-02-01T21:21:10.448Z"
 _outline:
